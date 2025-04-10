@@ -20,7 +20,7 @@
     "MyBot",
     "whatsapp bot"
   ],
-  "author": "Harsha",
+  "author": "Harsha, SreeCharan",
   "license": "ISC",
   "dependencies": {
     "@ffmpeg-installer/ffmpeg": "^1.1.0",
